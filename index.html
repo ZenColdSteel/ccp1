@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Solo Leveling</title>
+        <link rel="stylesheet" href="style.css" />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+        />
+    </head>
+    <body>
+        <nav class="navbar">
+            <div href="#" id="logo"></div>
+            <ul id="menu" class="menu">
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">Anime</a></li>
+                <li><a href="#">Manga</a></li>
+            </ul>
+            <button id="menu-toggle" class="menu-button">☰</button>
+        </nav>
+        <main>
+            <h1>Solo Leveling</h1>
+            <p>Les aventures de Jinwoo</p>
+            <div id="episodes-container"></div>
+            <!-- Modal -->
+            <div id="episodeModal" class="modal">
+                <div class="swiper">
+                    <div class="swiper-wrapper">
+                        <!-- Les diapositives seront ajoutées dynamiquement ici -->
+                    </div>
+                    <!-- Boutons de navigation -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+                    <!-- Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </main>
+        <script src="script.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    </body>
+</html>

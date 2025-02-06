@@ -1,0 +1,278 @@
+[
+    {
+        "episode": 1,
+        "title": "Le chasseur le plus faible",
+        "image": "images/episode1/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode1/scene1.png",
+                "text": "Jinwoo Sung, un chasseur de rang E, est vu dans un donjon avec d'autres chasseurs. Il est considéré comme le plus faible et est souvent méprisé par ses compagnons."
+            },
+            {
+                "image": "images/episode1/scene2.png",
+                "text": "Le groupe de chasseurs est pris au piège dans un donjon et fait face à des ennemis mortels. Jinwoo lutte pour survivre dans ce chaos."
+            },
+            {
+                "image": "images/episode1/scene3.png",
+                "text": "Après un événement tragique où plusieurs chasseurs sont tués, Jinwoo survit et se retrouve devant un mystérieux système qui lui accorde une seconde chance."
+            },
+            {
+                "image": "images/episode1/scene4.png",
+                "text": "Il se voit confier des missions étranges par ce système et commence à comprendre qu'il a maintenant un pouvoir énorme."
+            }
+        ]
+    },
+    {
+        "episode": 2,
+        "title": "Réveil du pouvoir",
+        "image": "images/episode2/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode2/scene1.png",
+                "text": "Jinwoo découvre qu'il peut accomplir des quêtes pour obtenir des récompenses et des points d'expérience. Il commence à renforcer ses capacités."
+            },
+            {
+                "image": "images/episode2/scene2.png",
+                "text": "Il commence à accomplir des missions de plus en plus difficiles et se rapproche de ses nouveaux pouvoirs."
+            },
+            {
+                "image": "images/episode2/scene3.png",
+                "text": "Jinwoo rencontre des monstres de plus en plus puissants. Il apprend à se battre avec plus de détermination et de puissance."
+            },
+            {
+                "image": "images/episode2/scene4.png",
+                "text": "Il obtient son premier véritable pouvoir de combat, et il réalise qu'il n'est plus le chasseur faible qu'il était."
+            }
+        ]
+    },
+    {
+        "episode": 3,
+        "title": "Les premiers pas vers la gloire",
+        "image": "images/episode3/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode3/scene1.png",
+                "text": "Jinwoo accepte une mission particulièrement difficile, et son pouvoir est mis à l'épreuve face à des ennemis plus puissants."
+            },
+            {
+                "image": "images/episode3/scene2.png",
+                "text": "En combattant des monstres féroces, Jinwoo découvre de nouvelles compétences et apprend à les maîtriser avec plus de précision."
+            },
+            {
+                "image": "images/episode3/scene3.png",
+                "text": "Lors d'une mission de raid, Jinwoo surprend ses alliés en éliminant des ennemis plus forts, et son pouvoir devient de plus en plus redoutable."
+            },
+            {
+                "image": "images/episode3/scene4.png",
+                "text": "Ses progrès attirent l'attention d'autres chasseurs, et Jinwoo devient une figure importante dans la communauté des chasseurs."
+            }
+        ]
+    },
+    {
+        "episode": 4,
+        "title": "Les nouvelles révélations",
+        "image": "images/episode4/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode4/scene1.png",
+                "text": "Jinwoo apprend qu'il possède un pouvoir unique et qu'il est lié à un mystérieux système qui régit le monde des chasseurs."
+            },
+            {
+                "image": "images/episode4/scene2.png",
+                "text": "Il fait face à des créatures encore plus puissantes dans un donjon de haut niveau, et ses compétences sont mises à l'épreuve."
+            },
+            {
+                "image": "images/episode4/scene3.png",
+                "text": "Jinwoo commence à comprendre que le système a un rôle plus vaste à jouer dans son évolution en tant que chasseur."
+            },
+            {
+                "image": "images/episode4/scene4.png",
+                "text": "Un événement inattendu le mène à de nouvelles découvertes sur les dangers qui se cachent dans ce monde des chasseurs."
+            }
+        ]
+    },
+    {
+        "episode": 5,
+        "title": "Le combat décisif",
+        "image": "images/episode5/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode5/scene1.png",
+                "text": "Jinwoo fait face à un défi décisif qui pourrait changer le cours de son aventure. Il est confronté à un boss puissant dans un donjon infernal."
+            },
+            {
+                "image": "images/episode5/scene2.png",
+                "text": "Il utilise ses compétences et son pouvoir d'invocation pour affronter une horde d'ennemis, montrant ainsi l'étendue de ses capacités."
+            },
+            {
+                "image": "images/episode5/scene3.png",
+                "text": "Le combat atteint son apogée, et Jinwoo se rend compte qu'il peut maintenant rivaliser avec certains des chasseurs les plus puissants."
+            },
+            {
+                "image": "images/episode5/scene4.png",
+                "text": "Après avoir triomphé de l'ennemi, Jinwoo prend conscience de sa place dans le monde des chasseurs et se prépare à un avenir incertain."
+            }
+        ]
+    },
+    {
+        "episode": 6,
+        "title": "La mission de rang A",
+        "image": "images/episode6/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode6/scene1.png",
+                "text": "Jinwoo reçoit une mission de rang A dans un donjon de haute sécurité. Cette mission est dangereuse, et il est accompagné d'un groupe de chasseurs de rangs plus élevés."
+            },
+            {
+                "image": "images/episode6/scene2.png",
+                "text": "Le groupe fait face à des monstres particulièrement puissants dans le donjon. Jinwoo commence à se rendre compte qu'il est plus fort que la plupart des chasseurs qui l'accompagnent."
+            },
+            {
+                "image": "images/episode6/scene3.png",
+                "text": "Alors que le groupe affronte des adversaires puissants, une trahison survient, et Jinwoo doit prendre les choses en main pour sauver ses coéquipiers."
+            },
+            {
+                "image": "images/episode6/scene4.png",
+                "text": "En utilisant ses capacités nouvellement acquises, Jinwoo parvient à éliminer les ennemis et à garantir la sécurité de tous, prouvant sa force et son potentiel."
+            }
+        ]
+    },
+    {
+        "episode": 7,
+        "title": "L'invocation des ombres",
+        "image": "images/episode7/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode7/scene1.png",
+                "text": "Jinwoo découvre que ses compétences d'invocation se sont considérablement améliorées. Il peut maintenant invoquer des créatures puissantes qui combattent à ses côtés."
+            },
+            {
+                "image": "images/episode7/scene2.png",
+                "text": "Il fait équipe avec ses invocations pour combattre un groupe de monstres particulièrement redoutables. Ses pouvoirs sont désormais bien plus affûtés."
+            },
+            {
+                "image": "images/episode7/scene3.png",
+                "text": "Ses invocations jouent un rôle clé dans le combat, et Jinwoo réalise qu'il peut en tirer parti de manière stratégique pour surmonter de plus grandes menaces."
+            },
+            {
+                "image": "images/episode7/scene4.png",
+                "text": "Après cette victoire, Jinwoo décide de s'entraîner davantage pour maîtriser pleinement ses pouvoirs d'invocation et augmenter son niveau de compétence."
+            }
+        ]
+    },
+    {
+        "episode": 8,
+        "title": "Le pouvoir caché",
+        "image": "images/episode8/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode8/scene1.png",
+                "text": "Jinwoo continue de s'entraîner et découvre qu'il possède un pouvoir caché en lui. Ce pouvoir est lié à son étrange connexion avec le mystérieux système."
+            },
+            {
+                "image": "images/episode8/scene2.png",
+                "text": "Lors d'une mission, il rencontre un mystérieux personnage qui semble en savoir beaucoup sur le système et l'informe que son pouvoir pourrait avoir des conséquences graves."
+            },
+            {
+                "image": "images/episode8/scene3.png",
+                "text": "Jinwoo fait face à un combat difficile contre un ennemi d'une puissance inouïe. Grâce à ses compétences améliorées, il réussit à surmonter ce défi, mais il commence à douter de l'origine de ses pouvoirs."
+            },
+            {
+                "image": "images/episode8/scene4.png",
+                "text": "Il se retrouve à un carrefour de son aventure, où il doit décider s'il poursuit son chemin solitaire ou s'il accepte l'aide d'autres chasseurs puissants."
+            }
+        ]
+    },
+    {
+        "episode": 9,
+        "title": "L'intrigue du Conseil des chasseurs",
+        "image": "images/episode9/cover.avif",
+        "scenes": [
+            {
+                "image": "images/episode9/scene1.png",
+                "text": "Jinwoo est invité à une réunion secrète avec des membres du Conseil des chasseurs. Ils cherchent à comprendre la nature du pouvoir qu'il détient et son impact sur le monde des chasseurs."
+            },
+            {
+                "image": "images/episode9/scene2.png",
+                "text": "Lors de cette réunion, des tensions éclatent entre les membres du Conseil. Certains cherchent à utiliser Jinwoo comme un atout, tandis que d'autres le considèrent comme une menace."
+            },
+            {
+                "image": "images/episode9/scene3.png",
+                "text": "Jinwoo se retrouve pris dans un jeu de pouvoir complexe, et il réalise qu'il doit faire attention aux alliances qu'il forme."
+            },
+            {
+                "image": "images/episode9/scene4.png",
+                "text": "La réunion se termine sur une note inquiétante, avec des forces cachées qui commencent à planifier des actions contre Jinwoo et ses alliés."
+            }
+        ]
+    },
+    {
+        "episode": 10,
+        "image": "images/episode10/cover.avif",
+        "title": "Le démon éveillé",
+        "scenes": [
+            {
+                "image": "images/episode10/scene1.png",
+                "text": "Jinwoo est confronté à un puissant démon dans un donjon de niveau supérieur. Ce démon semble être lié à une ancienne organisation secrète qui manipule les événements en coulisses."
+            },
+            {
+                "image": "images/episode10/scene2.png",
+                "text": "Le combat contre le démon est féroce. Jinwoo met à l'épreuve tous ses nouveaux pouvoirs, y compris ses invocations d'ombres, pour affronter cette menace."
+            },
+            {
+                "image": "images/episode10/scene3.png",
+                "text": "Alors que la bataille fait rage, Jinwoo découvre des vérités choquantes sur son propre pouvoir et son rôle dans le grand schéma des événements."
+            },
+            {
+                "image": "images/episode10/scene4.png",
+                "text": "En triomphant du démon, Jinwoo réalise qu'il a franchi une étape décisive dans son évolution, mais il comprend aussi que de nouvelles forces mystérieuses l'observent."
+            }
+        ]
+    },
+    {
+        "episode": 11,
+        "image": "images/episode11/cover.avif",
+        "title": "Le Conseil des chasseurs",
+        "scenes": [
+            {
+                "image": "images/episode11/scene1.png",
+                "text": "Jinwoo rencontre enfin les membres du Conseil des chasseurs. Ce groupe de puissants chasseurs cherche à comprendre l'étendue de ses capacités et son potentiel dangereux."
+            },
+            {
+                "image": "images/episode11/scene2.png",
+                "text": "Les membres du Conseil sont partagés. Certains voient en lui un allié puissant, tandis que d'autres le perçoivent comme une menace. Jinwoo doit naviguer dans cette dynamique complexe."
+            },
+            {
+                "image": "images/episode11/scene3.png",
+                "text": "Au cours de la réunion, des informations cruciales sont révélées. Le Conseil semble savoir plus sur l'origine des pouvoirs de Jinwoo, mais il reste encore beaucoup de mystères."
+            },
+            {
+                "image": "images/episode11/scene4.png",
+                "text": "La réunion se termine sur une note tendue, avec Jinwoo devant prendre une décision sur ses alliances et sur la manière de gérer ses nouveaux pouvoirs."
+            }
+        ]
+    },
+    {
+        "episode": 12,
+        "image": "images/episode12/cover.avif",
+        "title": "Le dernier test",
+        "scenes": [
+            {
+                "image": "images/episode12/scene1.png",
+                "text": "Jinwoo est envoyé dans un donjon de rang S, où il doit affronter des créatures redoutables pour tester l'étendue de ses pouvoirs."
+            },
+            {
+                "image": "images/episode12/scene2.png",
+                "text": "Dans le donjon, Jinwoo affronte des adversaires incroyablement puissants. Ses compétences d'invocation et ses capacités de combat sont mises à l'épreuve comme jamais auparavant."
+            },
+            {
+                "image": "images/episode12/scene3.png",
+                "text": "À un moment critique, Jinwoo est contraint d'utiliser toute la puissance de son pouvoir pour repousser une menace qui semble inarrêtable."
+            },
+            {
+                "image": "images/episode12/scene4.png",
+                "text": "Une fois le donjon terminé, Jinwoo se rend compte que ses pouvoirs sont plus puissants qu’il ne l’avait imaginé. Mais cette victoire s'accompagne de nouvelles questions sur son rôle dans le monde des chasseurs."
+            }
+        ]
+    }
+]

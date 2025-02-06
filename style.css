@@ -1,0 +1,231 @@
+/* Conteneur principal */
+#episodes-container {
+    display: grid;
+    gap: 15px;
+    padding: 10px;
+    grid-template-columns: 1fr; /* Affichage en colonne sur mobile */
+}
+
+/* Carte d’épisode */
+.episode-card {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    background: #000000;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+}
+
+.episode-card:hover {
+    transform: scale(1.05);
+}
+
+/* Image des épisodes */
+.episode-card img {
+    width: 320px;
+    height: auto;
+    border-bottom: 2px solid orange;
+}
+
+/* Titre et numéro d’épisode */
+.episode-card h2 {
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+    color: #ffa500; /* Orange Crunchyroll */
+}
+
+.episode-card p {
+    font-size: 14px;
+    margin: 10px;
+    opacity: 0.8;
+}
+
+/* Responsive : grille sur PC */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+.navbar {
+    background-color: #222;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+#logo {
+    content: url("images/logo1.png");
+    width: 50px;
+}
+
+.menu-button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+    flex-direction: column;
+    background-color: #f47521;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.menu.active {
+    display: flex;
+}
+
+.menu li {
+    padding: 10px;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+.modal {
+    display: none; /* Caché par défaut */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 30px;
+    cursor: pointer;
+}
+/* Style du conteneur Swiper */
+.swiper {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin: auto;
+}
+
+.swiper-slide {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.carousel-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
+.swiper-slide p {
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    #logo {
+        content: url("images/logo.png");
+        width: 182px;
+        height: 42px;
+    }
+    #episodes-container {
+        display: grid;
+        gap: 15px;
+        padding: 10px;
+        grid-template-columns: 1fr;
+        align-items: center;
+        justify-items: center;
+    }
+    .episode-card {
+        display: flex;
+        flex-direction: row-reverse;
+        height: 100%;
+        width: 70%;
+        justify-content: flex-end;
+    }
+    .menu-button {
+        display: none;
+    }
+    .episode-card img {
+        height: auto;
+        border-bottom: none;
+        border-right: 2px solid orange;
+    }
+    .menu {
+        background: none;
+        color: white;
+        cursor: pointer;
+        display: flex;
+        flex-direction: row;
+        position: static;
+        width: auto;
+    }
+    .swiper {
+        max-width: 90%;
+    }
+}
+@media (min-width: 1024px) {
+    #episodes-container {
+        grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    }
+    .episode-card {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        background: #000000;
+        color: white;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        transition: transform 0.2s ease-in-out;
+    }
+    .episode-card img {
+        width: 320px;
+        height: auto;
+        border-bottom: 2px solid orange;
+    }
+    .swiper {
+        max-width: 80%;
+    }
+}
