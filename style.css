@@ -205,6 +205,13 @@ body {
         max-width: 90%;
     }
 }
+.swiper-button-next,
+.swiper-button-prev {
+    color: orange !important;
+}
+.swiper-pagination-bullet-active {
+    background-color: orange !important;
+}
 @media (min-width: 1024px) {
     #episodes-container {
         grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));

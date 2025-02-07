@@ -60,7 +60,6 @@ function openModal(episode) {
         carouselWrapper.appendChild(slide);
     });
 
-    // Initialiser Swiper après l'ajout des éléments
     const swiper = new Swiper(".swiper", {
         navigation: {
             nextEl: ".swiper-button-next",
@@ -76,11 +75,10 @@ function openModal(episode) {
         loop: false,
     });
 
-    // Fermer la modal en cliquant en dehors
     window.addEventListener("click", (event) => {
         if (event.target === modal) {
             modal.classList.remove("modal-active");
-            swiper.destroy(); // Détruire Swiper lors de la fermeture pour éviter les conflits
+            swiper.destroy();
         }
     });
 }
